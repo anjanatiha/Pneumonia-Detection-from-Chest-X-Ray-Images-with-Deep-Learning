@@ -1,5 +1,5 @@
 # Detecting Pneumonia in Chest X-ray Images using Pretrained Models                                            
-*************************************************************************************************************************************
+-------------------------------------------------------------------------------------------------------------------------------------
 ##### Domain             : Computer Vision, Machine Learning
 ##### Sub-Domain         : Deep Learning, Image Recognition
 ##### Techniques         : Deep Convolutional Neural Network, ImageNet, Inception

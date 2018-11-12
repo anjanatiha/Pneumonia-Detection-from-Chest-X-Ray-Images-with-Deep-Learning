@@ -13,6 +13,9 @@
 ##### Number of Class: 2
 ##### Number of Images: Total: 5856, Training: 5216, Validation: 320, Testing: 320
 ##### Dataset Size: Total: 1.15 GB, Training: 1.07 GB, Validation: 42.8 MB, Testing: 35.4 MB
+###### Base Model: InceptionV3
+###### Optimizers: Adam
+###### Loss Function: categorical_crossentropy
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours

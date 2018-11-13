@@ -1,4 +1,4 @@
-# Detecting Pneumonia in Chest X-ray Images using Pretrained Models                                            
+# Pneumonia Detection from Chest X-Ray Images using Transfer Learning                                          
 *************************************************************************************************************************************
 ##### Domain             : Computer Vision, Machine Learning
 ##### Sub-Domain         : Deep Learning, Image Recognition
@@ -6,8 +6,9 @@
 ##### Application        : Image Recognition, Image Classification, Medical Imaging
 *************************************************************************************************************************************
 ### Description
-1. Detected Pneumonia from Chest X-Ray images by retraining pretrained model “Inception” (removed output layers and freezed first layers) and fine-tuned model for two new label classes (Pneumonia and Normal).
-2. Trained with 5856 images of X-ray (1.15GB) with testing accuracy 83.44% and loss 0.42.
+1. Detected Pneumonia from Chest X-Ray images by retraining pretrained model “InceptionV3” with 5856 images of X-ray (1.15GB).
+2. For retraining removed output layers, freezed first few layers and Fine-tuned model for two new label classes (Pneumonia and Normal).
+3. Attained testing accuracy 83.44% and loss 0.42.
 *************************************************************************************************************************************
 ### Flower Dataset:
 ###### Number of Class: 2

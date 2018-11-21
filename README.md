@@ -10,7 +10,7 @@
 2. For retraining removed output layers, freezed first few layers and Fine-tuned model for two new label classes (Pneumonia and Normal).
 3. Attained testing accuracy 83.44% and loss 0.42.
 *************************************************************************************************************************************
-### Flower Dataset:
+### Dataset:
 ###### Number of Class: 2
 ###### Number of Images: Total: 5856, Training: 5216, Validation: 320, Testing: 320
 ###### Dataset Size: Total: 1.15 GB, Training: 1.07 GB, Validation: 42.8 MB, Testing: 35.4 MB
@@ -23,6 +23,13 @@
 -->
 ###### Metrics (Accuracy): Testing: 83.44%
 ###### Metrics (Loss): Testing: 0.42
+
+
+##### Sample Output: 
+<kbd>
+<img src=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/sample/sample.png>
+</kbd>
+
 *************************************************************************************************************************************
 ##### Languages   : Python
 ##### Tools/IDE   : Anaconda
@@ -30,7 +37,7 @@
 *************************************************************************************************************************************
 ##### Duration   : October 2018 - Current
 ##### Current Version  : v1.0.0.0
-##### Last Update      : 11.08.2018
+##### Last Update      : 11.20.2018
 *************************************************************************************************************************************
 
 

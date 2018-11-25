@@ -1,0 +1,15 @@
+#### Library/Tools Version
+- Python - v3.6.7
+- argparse
+- random
+- numpy
+- shutil
+- gc
+- re
+- Keras - 2.2.4
+- Keras-preprocessing - v1.0.5
+- TensorFlow - 1.12
+- PIL/Pillow - 5.1.0
+- Matplotlib - 2.2.2
+- scikit-learn - 0.19.1
+- mlxtend - 0.14.0

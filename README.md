@@ -60,6 +60,10 @@ Precision               : 88.37%
 Recall (Pneumonia)      : 95.48% (For positive class)
 <!--Specificity             : -->
 </pre>
+##### Confusion Matrix: 
+<kbd>
+<img src=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/report/CM.png>
+</kbd>
 
 ##### Sample Output: 
 <kbd>

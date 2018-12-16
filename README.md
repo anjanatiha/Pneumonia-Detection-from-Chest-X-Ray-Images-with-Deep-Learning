@@ -9,9 +9,9 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 
 ### Description
 <pre>
-1. Detected Pneumonia from Chest X-Ray images by retraining pretrained model “InceptionV3” with 5856 images of X-ray (1.15GB).
-2. For retraining removed output layers, freezed first few layers and Fine-tuned model for two new label classes (Pneumonia and Normal).
-3. Attained testing accuracy 83.44% and loss 0.42.
+1. Detected Pneumonia from Chest X-Ray images using Custom Deep Convololutional Neural Network and by retraining pretrained model “InceptionV3” with 5856 images of X-ray (1.15GB).
+2. For retraining removed output layers, freezed first few layers and fine-tuned model for two new label classes (Pneumonia and Normal).
+3. With Custom Deep Convololutional Neural Network attained testing accuracy 89.53% and loss 0.41.
 </pre>
 
 #### Code

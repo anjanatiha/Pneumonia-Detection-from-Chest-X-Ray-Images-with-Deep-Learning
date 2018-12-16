@@ -53,7 +53,6 @@ Number of Epochs        : 30
 Training Time           : 2 Hours
 
 <b>Output (Prediction/ Recognition / Classification Metrics)</b>
-<!--<b>Validation</b>-->
 <b>Testing</b>
 Accuracy (F-1) Score    : 89.53%
 Loss                    : 0.41

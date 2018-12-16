@@ -42,22 +42,23 @@ Number/Size of Images   : Total      : 5856 (1.15 Gigabyte (GB))
 
 <b>Model Parameters</b>
 Machine Learning Library: Keras
-Base Model              : InceptionV3
+Base Model              : InceptionV3 && Custom Deep Convolutional Neural Network
 Optimizers              : Adam
 Loss Function           : categorical_crossentropy
 
+<b>For Custom Deep Convolutional Neural Network : </b>
 <b>Training Parameters</b>
 Batch Size              : 64
-Number of Epochs        : 50
-Training Time           : 3 Hours
+Number of Epochs        : 30
+Training Time           : 2 Hours
 
 <b>Output (Prediction/ Recognition / Classification Metrics)</b>
 <!--<b>Validation</b>-->
 <b>Testing</b>
-Accuracy                : 83.44%
-Loss                    : 0.42
-<!--Precision               : -->
-Recall                  : 94% (highest)
+Accuracy (F-1) Score    : 89.53%
+Loss                    : 0.41
+Precision               : 88.37%
+Recall (Pneumonia)      : 95.48% (For positive class)
 <!--Specificity             : -->
 </pre>
 
@@ -80,6 +81,6 @@ Libraries               : Keras, TensorFlow, Inception, ImageNet
 #### Dates
 <pre>
 Duration                : October 2018 - Current
-Current Version         : v1.0.0.0
-Last Update             : 11.25.2018
+Current Version         : v1.0.0.3
+Last Update             : 12.16.2018
 </pre>
